@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: skyblue;
+}
+
+.button {
+  padding: 8px 20px;
+  background-color: blue;
+  color: white;
+  border-style: none;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.next-button {
+  padding: 8px 20px;
+  background-color: purple;
+  color: white;
+  border-style: none;
+  border-radius: 5px;
+  font-size: 1rem;
+
+  margin-top: 8%;
+}
+
+.rate {
+  border-radius: 50%;
+  margin: 2%;
+  padding: 2%;
+  font-size: 1rem;
+}
+.rate:active {
+  background-color: orange;
+}
+.navigation-buttons {
+  margin: 1%;
+  padding: 0.3rem 0.5rem;
+}
